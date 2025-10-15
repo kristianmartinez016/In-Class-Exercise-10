@@ -7,19 +7,24 @@
 html {
   background-color: #16161a;
   font-size: 18px;
+  color: #94a1b2;
   font-family: Helvetica;
   line-height: 1.25;
 }
 
 header {
-}
-
-nav a{
-}
-
-.title {
+  width: 100vw;
+  background-color:#2cb67d;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: right;
+  position: fixed;
+  padding: 15px;
+  z-index: 10;
+  letter-spacing: 1px;
 }
 
 main {
+  position: relative;
 }
   
