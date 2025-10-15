@@ -13,21 +13,23 @@ html {
 }
 
 header {
+  position: fixed;
   width: 100vw;
   background-color:#2cb67d;
   text-transform: uppercase;
   font-weight: bold;
+  font-size: 16px;
   text-align: right;
-  position: fixed;
   padding: 15px;
   z-index: 10;
-  letter-spacing: 1px;
-  top: 50px;
+  letter-spacing: 0.75px;
+  top: 0px;
+  left: 0px
 }
 
 nav a {
   display: inline;
-  padding: 0px 50px 0px 0px; 
+  padding: 0px 20px 0px 0px; 
 }
 
 .Spooky {
@@ -36,9 +38,9 @@ nav a {
 
 main {
   position: relative;
-  margin: 25px 50px 75px 75px;
-  top: 100px;
-  width: 600px;
+  margin: 25px;
+  top: 25px;
+  width: 400px;
 }
 
 .story {
