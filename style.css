@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  background-color: #16161a;
+  font-size: 18px;
+  font-family: Helvetica;
+  line-height: 1.25;
+}
+
+header {
+}
+
+nav a{
+}
+
+.title {
+}
+
+main {
+}
+  
