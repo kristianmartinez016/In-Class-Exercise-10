@@ -92,16 +92,23 @@ a: hover {
   text-decoration: none;
 }
 
-
-/*super secret easter egg shhhhh*/
 .fate {
-  background-color: #060201;
+  background-color: #090401;
+}
+
+.secret {
+  padding: 450px 0px 0px 0px;
+  text-align: center;
 }
 
 .terrible {
   font-size: 25px;
-  font-weight: 700;
+  font-weight: bold;
   text-align: center;
-  padding: 500px 0px;
-  color: #017b49;
+  margin-bottom: 150px;
+  color: #16ab54
+}
+
+.Ben {
+  opacity: 15%;
 }
