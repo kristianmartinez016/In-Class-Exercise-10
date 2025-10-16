@@ -39,12 +39,12 @@ nav a {
 main {
   position: relative;
   margin: 25px;
-  top: 25px;
-  width: 400px;
+  top: 50px;
+  width: 700px;
 }
 
 .story {
-  margin-top: 10px;
+  margin: 25px 0px;
   text-align: justify;
 }
 
@@ -54,15 +54,18 @@ p {
 }
 
 .hero {
-  padding: 10px;
+  width: 100%;
+  height: auto;
 }
 
 .jump {
   position: sticky;
   top: 500px;
-  width:1250px;
+  width:80vw;
 }
 
 .scare {
   float: right;
+  height: 250px;
+  width: auto;
 }
