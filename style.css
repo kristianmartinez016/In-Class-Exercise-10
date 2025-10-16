@@ -91,3 +91,17 @@ a: hover {
   color: #FF4500;
   text-decoration: none;
 }
+
+
+/*super secret easter egg shhhhh*/
+.fate {
+  background-color: #060201;
+}
+
+.terrible {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  padding: 500px 0px;
+  color: #017b49;
+}
