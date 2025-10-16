@@ -5,9 +5,9 @@
 }
 
 html {
-  background-color: #16161a;
+  background-color: #140f0d;
   font-size: 18px;
-  color: #94a1b2;
+  color: #78d3b3;
   font-family: Helvetica;
   line-height: 1.25;
 }
@@ -15,7 +15,7 @@ html {
 header {
   position: fixed;
   width: 100vw;
-  background-color:#2cb67d;
+  background-color: #0d9263;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 16px;
@@ -29,7 +29,8 @@ header {
 
 nav a {
   display: inline;
-  padding: 0px 20px 0px 0px; 
+  padding: 0px 20px 0px 0px;
+  color: #432f0f;
 }
 
 .Spooky {
@@ -38,9 +39,16 @@ nav a {
 
 main {
   position: relative;
-  margin: 25px;
+  margin: 40px;
   top: 50px;
-  width: 700px;
+  width: 500px;
+}
+
+.title {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+  margin-bottom: 25px;
 }
 
 .story {
@@ -60,7 +68,7 @@ p {
 
 .jump {
   position: sticky;
-  top: 500px;
+  top: 400px;
   width:80vw;
 }
 
@@ -68,4 +76,18 @@ p {
   float: right;
   height: 250px;
   width: auto;
+}
+
+i, b {
+  color: #00ffa5;
+}
+
+a {
+  color: #0d9263;
+  text-deocoration: none;
+}
+
+a: hover {
+  color: #FF4500;
+  text-decoration: none;
 }
