@@ -39,7 +39,7 @@ nav a {
 
 main {
   position: relative;
-  margin: 40px;
+  margin: 40px 0 100px 40px;
   top: 50px;
   width: 500px;
 }
@@ -68,7 +68,7 @@ p {
 
 .jump {
   position: sticky;
-  top: 400px;
+  top: 700px;
   width:80vw;
 }
 
